@@ -1,0 +1,4 @@
+# make a copy without -EXAMPLE suffix and edit the project_id
+locals {
+    project_id = "your-gcp-project-id"
+}
